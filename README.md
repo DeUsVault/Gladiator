@@ -1,8 +1,6 @@
-# Gladiator
+# Gladiator (UE 4.27.2)
 
-## Engine version
-
-Unreal Engine 4.27.2
+![Gameplay footage](gladiator.gif)
 
 ## How to play
 
